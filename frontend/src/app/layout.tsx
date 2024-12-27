@@ -5,8 +5,8 @@ import { cn } from "@/lib/utils";
 import { ThemeProvider } from "@/components/theme-provider";
 
 export const metadata: Metadata = {
-  title: "Z - A Rede Social do Momento",
-  description: "Criada por Lucas Gabriel Bernardino",
+  title: "B - A Rede Social do Momento",
+  description: "Criada por Bernardino",
 };
 
 const oswald = Oswald({
