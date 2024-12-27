@@ -24,7 +24,7 @@ export default function RootLayout({
   return (
     <html lang="pt-BR">
       <body className={cn("min-h-screen bg-background font-oswald antialiased", oswald.className)}>
-        <ThemeProvider
+        <ThemeProvider // Black theme
           attribute="class"
           defaultTheme="dark"
           enableSystem
