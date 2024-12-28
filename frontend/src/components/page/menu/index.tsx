@@ -15,7 +15,7 @@ export default function PageMenu() {
             <Image src={AppIcon} width={32} height={32} alt="Icone" />
           </div>
         </Link>
-        <Link href="/"
+        <Link href="/home"
           className="flex gap-4 rounded-full p-4 hover:bg-menu-hover text-lg">
           <div>
             <HomeIcon />
@@ -24,7 +24,7 @@ export default function PageMenu() {
             Home
           </div>
         </Link>
-        <Link href="/"
+        <Link href="/profile"
           className="flex gap-4 rounded-full p-4 hover:bg-menu-hover text-lg">
           <div>
             <UserRound />
