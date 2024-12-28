@@ -1,3 +1,4 @@
+import Tweet from "@/components/tweet";
 import { TweetForm } from "@/components/tweet-form";
 
 export default function HomePage() {
@@ -7,7 +8,7 @@ export default function HomePage() {
         <TweetForm />
       </div>
       <div className="border-muted border-x-[1px]">
-        Tweets
+        <Tweet />
       </div>
     </div>
   )
