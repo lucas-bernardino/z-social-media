@@ -1,4 +1,4 @@
-package com.example.socialmedia.b.domains.profile;
+package com.example.socialmedia.b.domains.profile.entities;
 
 import java.util.HashMap;
 import java.util.Map;

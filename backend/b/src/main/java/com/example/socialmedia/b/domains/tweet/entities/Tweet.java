@@ -1,4 +1,4 @@
-package com.example.socialmedia.b.domains.tweet;
+package com.example.socialmedia.b.domains.tweet.entities;
 
 import java.time.Instant;
 import java.util.UUID;
