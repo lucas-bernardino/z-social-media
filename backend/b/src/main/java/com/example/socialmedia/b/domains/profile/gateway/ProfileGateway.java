@@ -16,4 +16,5 @@ public interface ProfileGateway {
 
     public List<Profile> searchByLogin(final String login);
 
+    public List<Profile> findFollowedByProfileId(final String id);
 }
